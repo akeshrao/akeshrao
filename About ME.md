@@ -1,8 +1,8 @@
 In the World of unlimited Possibilitys Creating somthing unique and beautiful is my goal! 
-- 👋 Hi, I’m @akeshrao
-- 👀 I’m interested in Creating IOS app,python automated Task,Web-Development & networking
-- 🌱 I’m currently learning Swift,UI KIT,Swift UI,
-- 💞️ I’m looking to collaborate on IoS app built on UI Kit with imressive & stunning UI
+- 👋 Hellow World!, I’m Akesh Rao
+- 👀 I’m interested in Creating IOS app,python automated Task,Web-Development & Networking.
+- 🌱 I’m currently learning Swift,UI KIT,Swift UI @ Trycatch.
+- 💞️ I’m looking to collaborate on IOS app built on UI Kit with imressive & stunning UI
 - 📫 Wanna Chat and share your Thoughts with me (ping me on > Telegram {@AKESHRAO} )
 
 <!---
